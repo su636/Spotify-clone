@@ -1,2 +1,2 @@
 # Spotify-clone
-This is a full stack Spotify clone project. #Next #React #Stripe #Supabase #PostgreSQL #Tailwind
+This is a full stack Spotify clone project. #Next.js #React #Stripe #Supabase #PostgreSQL #Tailwind
